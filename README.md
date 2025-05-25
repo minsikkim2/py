@@ -1,3 +1,3 @@
 # py
-learn py
-kimminsik
+
+Studying programming for 1-1 semester
